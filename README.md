@@ -67,24 +67,15 @@ I'm a Full Stack and Machine Learning Developer passionate about building scalab
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maithilipandey&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithilipandey&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maithilipandey&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maithilipandey&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maithilipandey&theme=tokyonight)
 
-## 🏆 GitHub Trophies
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maithilipandey&theme=tokyonight)
 
-<div align="center">
+## 📊 Profile Summary
 
-<img src="https://github-profile-trophy.vercel.app/?username=maithilipandey&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maithilipandey&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
