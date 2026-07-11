@@ -101,15 +101,6 @@ I'm a Full Stack and Machine Learning Developer passionate about building scalab
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/maithilipandey/maithilipandey/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## ✨ Fun Fact
 
