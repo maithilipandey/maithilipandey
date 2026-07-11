@@ -67,19 +67,14 @@ I'm a Full Stack and Machine Learning Developer passionate about building scalab
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maithilipandey&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithilipandey&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=maithilipandey&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithilipandey&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=maithilipandey&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maithilipandey&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🏆 GitHub Trophies
 
