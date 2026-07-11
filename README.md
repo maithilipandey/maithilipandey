@@ -119,10 +119,6 @@ I'm a Full Stack and Machine Learning Developer passionate about building scalab
 <a href="mailto:maithili.pandey06@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
 
 </div>
 
