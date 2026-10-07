@@ -20,7 +20,7 @@ I'm a Full Stack and Machine Learning Developer passionate about building scalab
 * 🧩 Strong interest in software engineering and problem-solving
 * 🌱 Believer in learning by building and continuous improvement
 * 🎯 Focused on creating meaningful technology with real-world impact
-
+* 
 ---
 
 ## 🛠️ Tech Stack
